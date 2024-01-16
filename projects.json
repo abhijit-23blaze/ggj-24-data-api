@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "projectName": "Root Ninja",
+    "teamName": "ping0ms",
+    "projectLogoUrl": "https://raw.githubusercontent.com/ping0ms/root-ninja/5a94f95d898c40be0b641cff09db98e10ffdf8de/assets/ninjaFace.png",
+    "projectDesc": "Once upon a time in the village Angbotain, the shinobi of the nature clan lived happily. But suddenly one day out of nowhere disaster struck and everyone fell victim to a deadly disease",
+    "teamMembers": ["Aahnik", "Suvan", "Bishwajeet"],
+    "techStack": ["Scratch", "React", "Node.js"]
+  },
+  {
+    "id": 2,
+    "projectName": "Root Ninja",
+    "teamName": "ping0ms",
+    "projectLogoUrl": "https://raw.githubusercontent.com/ping0ms/root-ninja/5a94f95d898c40be0b641cff09db98e10ffdf8de/assets/ninjaFace.png",
+    "projectDesc": "Once upon a time in the village Angbotain, the shinobi of the nature clan lived happily. But suddenly one day out of nowhere disaster struck and everyone fell victim to a deadly disease",
+    "teamMembers": ["Aahnik", "Suvan", "Bishwajeet"],
+    "techStack": ["Scratch", "React", "Node.js"]
+  },
+  {
+    "id": 3,
+    "projectName": "Root Ninja",
+    "teamName": "ping0ms",
+    "projectLogoUrl": "https://raw.githubusercontent.com/ping0ms/root-ninja/5a94f95d898c40be0b641cff09db98e10ffdf8de/assets/ninjaFace.png",
+    "projectDesc": "Once upon a time in the village Angbotain, the shinobi of the nature clan lived happily. But suddenly one day out of nowhere disaster struck and everyone fell victim to a deadly disease",
+    "teamMembers": ["Aahnik", "Suvan", "Bishwajeet"],
+    "techStack": ["Scratch", "React", "Node.js"]
+  }
+]
